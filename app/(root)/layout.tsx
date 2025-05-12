@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import MobileNav from "@/components/MobileNav";
 import SideBar from "@/components/SideBar";
 import { getLoggedInUser } from "@/lib/actions/user.actions";
